@@ -1,0 +1,20 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/websocket": "^1.0.10",
+    "express": "^4.19.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.4.5",
+    "websocket": "^1.0.35",
+    "zod": "^3.23.8"
+  }
+}
